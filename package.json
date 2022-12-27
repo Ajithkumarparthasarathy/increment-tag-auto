@@ -1,0 +1,24 @@
+{
+  "name": "increment-tag-auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajithkumarparthasarathy/increment-tag-auto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajithkumarparthasarathy/increment-tag-auto/issues"
+  },
+  "homepage": "https://github.com/Ajithkumarparthasarathy/increment-tag-auto#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/exec": "^1.1.1"
+  }
+}
